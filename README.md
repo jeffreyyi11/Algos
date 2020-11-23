@@ -1,2 +1,1 @@
-# Algos
 # Algo practice
